@@ -1,0 +1,16 @@
+body{
+    margin: auto;
+    background-color: #AE6A54;
+    font-family: 'Playfair Display';
+    color: white;
+}
+
+.foto_direita {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 20vw;   /* A largura será 20% da largura da tela */
+    height: 30vh;  /* A altura será 30% da altura da tela */
+    
+    overflow: hidden; /* Garante que o conteúdo excedente não será mostrado */
+}
