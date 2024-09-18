@@ -14,3 +14,7 @@ body{
     
     overflow: hidden; /* Garante que o conteúdo excedente não será mostrado */
 }
+
+input{
+    width: 100%;
+}
